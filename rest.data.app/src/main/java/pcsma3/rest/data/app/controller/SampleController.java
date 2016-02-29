@@ -1,4 +1,4 @@
-package pcsma3.rest.data.app.controllers;
+package pcsma3.rest.data.app.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
